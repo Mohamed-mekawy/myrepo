@@ -74,8 +74,22 @@
     "paymentSerialNo": "CBSAR7002",
     "paymentNarration": "461-CBSAR7002"
   }
+},
+"homeCollection":{
+  "header": {
+    "timstamp": 1522233528,
+    "customerId": "string",
+    "msisdn": " 01511344998",
+    "messageCode": "string",
+    "responseCode": "0",
+    "responseMessage": "Your request is under processing, you will be notified by SMS",
+    "locale": "en",
+    "referenceId": "26234186-3274-11e8-be82-0a0027000005",
+    "channelId": "WEB_APP",
+    "responeAdditionalParameters": null
+  },
+  "body": "1"
 }
-
 
 }
 
