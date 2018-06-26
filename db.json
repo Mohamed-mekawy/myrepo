@@ -17,7 +17,7 @@
     "unbilledFees": 200
   }
 },
-"api/billing/queryOpenInvoices":{
+"queryOpenInvoices":{
   "header": {
     "timstamp": 1520528911,
     "customerId": "string",
