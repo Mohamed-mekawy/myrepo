@@ -1,5 +1,5 @@
 {
-  "balance":
+  "line/postpaid/balance":
   {
   "header": {
     "timstamp": 0,
@@ -16,6 +16,177 @@
     "outstandingAmount": 300,
     "unbilledFees": 200
   }
+},
+"api/billing/queryOpenInvoices":{
+  "header": {
+    "timstamp": 1520528911,
+    "customerId": "string",
+    "msisdn": "01521616066",
+    "messageCode": "string",
+    "responseCode": "0",
+    "responseMessage": "Success",
+    "locale": "en",
+    "referenceId": "51924d61-22f3-11e8-b57c-00090ffe0001",
+    "channelId": "",
+    "responeAdditionalParameters": null
+  },
+  "body": [
+    {
+      "invoiceNo": "20180211000000042614",
+      "invoiceDate": "2018-02-11",
+      "dueDate": "2018-02-01",
+      "amount": 55,
+      "openAmount": 22
+    },
+    {
+      "invoiceNo": "20180208000000042508",
+      "invoiceDate": "2018-02-08",
+      "dueDate": "2018-02-01",
+      "amount": 230.05,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180208000000042505",
+      "invoiceDate": "2018-02-08",
+      "dueDate": "2018-02-01",
+      "amount": 65.55,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180208000000042473",
+      "invoiceDate": "2018-02-08",
+      "dueDate": "2018-02-01",
+      "amount": 25.4,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180208000000042383",
+      "invoiceDate": "2018-02-08",
+      "dueDate": "2018-02-01",
+      "amount": 68.45,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180206000000042041",
+      "invoiceDate": "2018-02-06",
+      "dueDate": "2018-02-01",
+      "amount": 60.75,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180201000000039289",
+      "invoiceDate": "2018-02-01",
+      "dueDate": "2018-01-29",
+      "amount": 120,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180131000000039108",
+      "invoiceDate": "2018-01-31",
+      "dueDate": "2018-02-01",
+      "amount": 0,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180130000000038228",
+      "invoiceDate": "2018-01-30",
+      "dueDate": "2018-02-01",
+      "amount": 3000,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180124000000035429",
+      "invoiceDate": "2018-01-24",
+      "dueDate": "2018-01-31",
+      "amount": 0,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180124000000035428",
+      "invoiceDate": "2018-01-24",
+      "dueDate": "2018-01-31",
+      "amount": 0,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180124000000035397",
+      "invoiceDate": "2018-01-24",
+      "dueDate": "2018-01-31",
+      "amount": 0,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180124000000035395",
+      "invoiceDate": "2018-01-24",
+      "dueDate": "2018-01-31",
+      "amount": 0,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180124000000035394",
+      "invoiceDate": "2018-01-24",
+      "dueDate": "2018-01-31",
+      "amount": 0,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180124000000035387",
+      "invoiceDate": "2018-01-24",
+      "dueDate": "2018-01-31",
+      "amount": 0,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180124000000035384",
+      "invoiceDate": "2018-01-24",
+      "dueDate": "2018-01-31",
+      "amount": 0,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180124000000035383",
+      "invoiceDate": "2018-01-24",
+      "dueDate": "2018-01-31",
+      "amount": 0,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180124000000035382",
+      "invoiceDate": "2018-01-24",
+      "dueDate": "2018-01-31",
+      "amount": 0,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180124000000035380",
+      "invoiceDate": "2018-01-24",
+      "dueDate": "2018-01-31",
+      "amount": 0,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180124000000035376",
+      "invoiceDate": "2018-01-24",
+      "dueDate": "2018-01-31",
+      "amount": 5,
+      "openAmount": 0
+    },
+    {
+      "invoiceNo": "20180124000000035369",
+      "invoiceDate": "2018-01-24",
+      "dueDate": "2018-01-31",
+      "amount": 0,
+      "openAmount": 0
+    }
+  ]
 }
 
+
+  
+
+
+
+
 }
+
+
