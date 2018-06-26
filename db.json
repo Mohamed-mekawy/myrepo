@@ -1,0 +1,21 @@
+{
+  "balance":
+  {
+  "header": {
+    "timstamp": 0,
+    "customerId": "1",
+    "msisdn": "01521616066",
+    "messageCode": "string",
+    "responseCode": "0",
+    "responseMessage": "Success",
+    "locale": "en",
+    "referenceId": "82c02643-ecc6-11e7-802e-00090ffe0001",
+    "responeAdditionalParameters": null
+  },
+  "body": {
+    "outstandingAmount": 300,
+    "unbilledFees": 200
+  }
+}
+
+}
