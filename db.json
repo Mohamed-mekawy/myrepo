@@ -54,7 +54,28 @@
     }
     
   ]
+},
+"voucher":{
+  "header": {
+    "timstamp": 0,
+    "customerId": "",
+    "msisdn": "",
+    "messageCode": "string",
+    "responseCode": "0",
+    "responseMessage": "Your transaction has been successfully completed",
+    "locale": "en",
+    "referenceId": "c808da66-0758-11e8-9878-8c705af896fc",
+    "responeAdditionalParameters": null
+  },
+  "body": {
+    "mobileNumber": "01521616066",
+    "newBalanceAmount": 220.21,
+    "oldBalanceAmount": 219.21,
+    "paymentSerialNo": "CBSAR7002",
+    "paymentNarration": "461-CBSAR7002"
+  }
 }
+
 
 }
 
