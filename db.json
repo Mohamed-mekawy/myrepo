@@ -89,6 +89,22 @@
     "responeAdditionalParameters": null
   },
   "body": "1"
+},"checkHomeCollection":{
+  "header": {
+    "timstamp": 1522233945,
+    "customerId": "string",
+    "msisdn": " 01511344998",
+    "messageCode": "string",
+    "responseCode": null,
+    "responseMessage": null,
+    "locale": "en",
+    "referenceId": "2a38fb67-3275-11e8-be82-0a0027000005",
+    "channelId": "WEB_APP",
+    "responeAdditionalParameters": null
+  },
+  "body": {
+   "enabled":true
+ }
 }
 
 }
