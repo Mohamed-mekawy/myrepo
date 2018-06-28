@@ -36,14 +36,14 @@
       "invoiceDate": "2018-02-11",
       "dueDate": "2018-02-01",
       "amount": 55,
-      "openAmount": 22
+      "openAmount": 20
     },
     {
       "invoiceNo": "7235422",
       "invoiceDate": "2018-02-08",
       "dueDate": "2018-02-01",
       "amount": 230.05,
-      "openAmount": 88
+      "openAmount": 80
     },
     {
       "invoiceNo": "72354523",
